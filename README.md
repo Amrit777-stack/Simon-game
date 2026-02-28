@@ -21,3 +21,5 @@ CSS3
 JavaScript (ES6)
 
 jQuery
+
+Play it here: https://amrit777-stack.github.io/Simon-game/
